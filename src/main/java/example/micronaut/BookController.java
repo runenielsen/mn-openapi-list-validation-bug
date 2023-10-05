@@ -25,7 +25,7 @@ public class BookController implements BooksApi {
 
     @Override
     public void addBooks(List<Book> book) {
-        System.out.println(book);
+
     }
 
     @Override
